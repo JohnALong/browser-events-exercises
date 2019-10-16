@@ -1,0 +1,13 @@
+#articles {
+    display: flex;
+    flex-direction: row;
+    align-content: stretch;
+}
+#article1 {
+    width: 50%;
+    border: 2px solid blue;
+}
+#article2 {
+    width: 50%;
+    border: 2px solid green;
+}
